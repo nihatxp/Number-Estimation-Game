@@ -1,0 +1,28 @@
+C:\Users\nihat\source\repos\MediaPlayerAppProject\MediaPlayerAppProject\bin\Debug\MediaPlayerAppProject.exe.config
+C:\Users\nihat\source\repos\MediaPlayerAppProject\MediaPlayerAppProject\bin\Debug\MediaPlayerAppProject.exe
+C:\Users\nihat\source\repos\MediaPlayerAppProject\MediaPlayerAppProject\bin\Debug\MediaPlayerAppProject.pdb
+C:\Users\nihat\source\repos\MediaPlayerAppProject\MediaPlayerAppProject\obj\Debug\Interop.WMPLib.dll
+C:\Users\nihat\source\repos\MediaPlayerAppProject\MediaPlayerAppProject\obj\Debug\MediaPlayerAppProject.csproj.ResolveComReference.cache
+C:\Users\nihat\source\repos\MediaPlayerAppProject\MediaPlayerAppProject\obj\Debug\MediaPlayerAppProject.Form1.resources
+C:\Users\nihat\source\repos\MediaPlayerAppProject\MediaPlayerAppProject\obj\Debug\MediaPlayerAppProject.Form2.resources
+C:\Users\nihat\source\repos\MediaPlayerAppProject\MediaPlayerAppProject\obj\Debug\MediaPlayerAppProject.Properties.Resources.resources
+C:\Users\nihat\source\repos\MediaPlayerAppProject\MediaPlayerAppProject\obj\Debug\MediaPlayerAppProject.csproj.GenerateResource.cache
+C:\Users\nihat\source\repos\MediaPlayerAppProject\MediaPlayerAppProject\obj\Debug\MediaPlayerAppProject.csproj.CoreCompileInputs.cache
+C:\Users\nihat\source\repos\MediaPlayerAppProject\MediaPlayerAppProject\obj\Debug\MediaPlayerAppProject.exe
+C:\Users\nihat\source\repos\MediaPlayerAppProject\MediaPlayerAppProject\obj\Debug\MediaPlayerAppProject.pdb
+C:\Users\nihat\source\repos\MediaPlayerAppProject\MediaPlayerAppProject\obj\Debug\MediaPlayerAppProject.csproj.AssemblyReference.cache
+C:\Users\nihat\source\repos\MediaPlayerAppProject\MediaPlayerAppProject\obj\Debug\MediaPlayerAppProject.Form3.resources
+C:\Users\nihat\Desktop\ARSIV\ALL C# PROJECT\MediaPlayerAppProject - Kopya\MediaPlayerAppProject\bin\Debug\MediaPlayerAppProject.exe.config
+C:\Users\nihat\Desktop\ARSIV\ALL C# PROJECT\MediaPlayerAppProject - Kopya\MediaPlayerAppProject\bin\Debug\MediaPlayerAppProject.exe
+C:\Users\nihat\Desktop\ARSIV\ALL C# PROJECT\MediaPlayerAppProject - Kopya\MediaPlayerAppProject\bin\Debug\MediaPlayerAppProject.pdb
+C:\Users\nihat\Desktop\ARSIV\ALL C# PROJECT\MediaPlayerAppProject - Kopya\MediaPlayerAppProject\obj\Debug\MediaPlayerAppProject.csproj.AssemblyReference.cache
+C:\Users\nihat\Desktop\ARSIV\ALL C# PROJECT\MediaPlayerAppProject - Kopya\MediaPlayerAppProject\obj\Debug\Interop.WMPLib.dll
+C:\Users\nihat\Desktop\ARSIV\ALL C# PROJECT\MediaPlayerAppProject - Kopya\MediaPlayerAppProject\obj\Debug\MediaPlayerAppProject.csproj.ResolveComReference.cache
+C:\Users\nihat\Desktop\ARSIV\ALL C# PROJECT\MediaPlayerAppProject - Kopya\MediaPlayerAppProject\obj\Debug\MediaPlayerAppProject.Form1.resources
+C:\Users\nihat\Desktop\ARSIV\ALL C# PROJECT\MediaPlayerAppProject - Kopya\MediaPlayerAppProject\obj\Debug\MediaPlayerAppProject.Form2.resources
+C:\Users\nihat\Desktop\ARSIV\ALL C# PROJECT\MediaPlayerAppProject - Kopya\MediaPlayerAppProject\obj\Debug\MediaPlayerAppProject.Form3.resources
+C:\Users\nihat\Desktop\ARSIV\ALL C# PROJECT\MediaPlayerAppProject - Kopya\MediaPlayerAppProject\obj\Debug\MediaPlayerAppProject.Properties.Resources.resources
+C:\Users\nihat\Desktop\ARSIV\ALL C# PROJECT\MediaPlayerAppProject - Kopya\MediaPlayerAppProject\obj\Debug\MediaPlayerAppProject.csproj.GenerateResource.cache
+C:\Users\nihat\Desktop\ARSIV\ALL C# PROJECT\MediaPlayerAppProject - Kopya\MediaPlayerAppProject\obj\Debug\MediaPlayerAppProject.csproj.CoreCompileInputs.cache
+C:\Users\nihat\Desktop\ARSIV\ALL C# PROJECT\MediaPlayerAppProject - Kopya\MediaPlayerAppProject\obj\Debug\MediaPlayerAppProject.exe
+C:\Users\nihat\Desktop\ARSIV\ALL C# PROJECT\MediaPlayerAppProject - Kopya\MediaPlayerAppProject\obj\Debug\MediaPlayerAppProject.pdb
